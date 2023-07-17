@@ -9,6 +9,10 @@ var remainder = candies / people
 
 // 3. Create a function called greeting that returns "Hello, <name>!",
 // where <name> is the name given as an argument to the function.
+let name = Emmaline
+function greeting(name) {
+    return "Hello, " + name + "!"
+}
 
 // 4. Create a function called isOdd that, given a number, will
 // return true if it is odd and false if it is not. An odd number is a

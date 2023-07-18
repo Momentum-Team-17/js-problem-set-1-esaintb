@@ -72,6 +72,10 @@ function lesser {
 //
 // If any other language code is used, return nothing.
 
+function multigreeting{
+
+}
+
 // 11. The greatest common divisor (https://en.wikipedia.org/wiki/Greatest_common_divisor)
 // is the largest integer that, given two other integers, can be divided into them. For
 // example, the greatest common divisor of 24 and 81 is 3. The greatest common divisor of

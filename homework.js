@@ -72,8 +72,7 @@ function lesser {
 //
 // If any other language code is used, return nothing.
 
-function multigreeting{
-
+function multigreeting {
 }
 
 // 11. The greatest common divisor (https://en.wikipedia.org/wiki/Greatest_common_divisor)
@@ -102,3 +101,6 @@ function multigreeting{
 
 // Write a function called gcd that takes two arguments and returns the greatest common
 // divisor using the instructions above.
+function gcd {
+
+}
